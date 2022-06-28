@@ -127,3 +127,6 @@ display: none;
     font-size: 5rem;
 }
 
+.show-winnig-msg {
+    display: flex;
+}
